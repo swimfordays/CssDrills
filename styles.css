@@ -3,7 +3,7 @@ body {
     background: #d8d4d4;
 }
 
-h2, p, .readme-wrapper {
+p, .readme-wrapper {
     text-align: center;
 }
 
@@ -17,6 +17,21 @@ a:hover {
    color: #2cac96; 
 }
 
+.heading-wrapper {
+    display: flex;
+}
+
+.img-wrapper {
+    width: 2em;
+    height: 2em;
+    background: #0b814a;
+    flex: 0 0 2em;
+}
+
+h2 {
+    flex: 1;
+}
+
 .boxes {
     display: block;
     margin: auto;
@@ -28,6 +43,7 @@ a:hover {
 
 #box1 {
     background: #705b5b;
+
 }
 #box2 {
     background: #4b3232;
