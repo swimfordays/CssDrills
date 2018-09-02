@@ -54,3 +54,31 @@ h2 {
 #box4 {
     background: #8d4242;
 }
+
+h1 {
+    color: #103242;
+}
+
+.favorite {
+    color: #c71717;
+}
+
+.funny {
+    color: #dd5c5c;
+}
+
+#rank1{
+    color:blue;
+}
+#rank2 {
+    color: green;
+}
+#rank3 {
+    color: orange;
+}
+#rank4 {
+    color: purple;
+}
+#rank5 {
+    color: red;
+}
