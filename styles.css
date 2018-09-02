@@ -82,3 +82,23 @@ h1 {
 #rank5 {
     color: red;
 }
+
+ul {
+    color: blue;
+}
+
+li {
+    /*color: green;*/
+}
+
+#friends {
+    color: black;
+}
+
+#restaurants {
+    color: maroon;
+}
+
+#list-wrapper {
+    border: 2px solid black;
+}
