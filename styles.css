@@ -11,3 +11,11 @@ a {
     text-decoration: none;
     color: #a02121;
 }
+
+.boxes {
+    display: inline-block;
+    margin: auto;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
